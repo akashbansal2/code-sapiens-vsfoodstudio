@@ -17,7 +17,7 @@
           
         if($count == 1){  
             // echo "Name".$_SESSION['userid']; 
-            header("location: profile.php");
+            header("location: home_after.html");
             // echo "Signin Successful";
 
             $_SESSION['user_name'] = $userid;
