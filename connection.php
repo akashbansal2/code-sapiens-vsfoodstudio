@@ -3,10 +3,10 @@
 $server = "localhost";
 $username = "root";
 $password = "";
-$database= "interact";
+$database= "foodstudio";
 
 $con = mysqli_connect($server, $username, $password, $database);
 
-mysqli_select_db($con, 'interact');
+mysqli_select_db($con, 'foodstudio');
 
 ?>
