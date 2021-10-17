@@ -4,12 +4,12 @@
 body
 {
     overflow-x: hidden;
-    background-color: #1f1f23 !important;
+    background-color: #ffffff !important;
 }
 
 .my-5
 {
-    color: #fff;
+    color: #000;
 }
 
 
@@ -19,7 +19,7 @@ body
 {
 	font-style: inherit;
 	font-size: 1.2em;
-	color: #00ffff!important;
+	color: #000!important;
 	font-weight: bold;
 }
 
@@ -31,12 +31,12 @@ body
 .navbar-dark .navbar-nav .nav-link.active,
 .navbar-dark .navbar-nav .nav-link:hover
 {
-	color: #00ffff!important;
+	color: #000!important;
 }
 
 .btn
 {
-	color: #00ffff!important;
+	color: #000!important;
     border-radius: 200px !important;
 }
 
@@ -404,7 +404,7 @@ body
 
 #testimonial
 {
-    background: url(../image/img_bg_16.jpg);
+    background: url(../image/canteenbg.jpg);
     background-attachment: fixed;
     background-position: top ;
     background-repeat: no-repeat;
@@ -420,7 +420,7 @@ body
 .carousel-item h3
 {
     padding-top: 10px;
-    color: #00ffff;
+    color: #ffffff;
     font-weight: bold;
 }
 
@@ -432,7 +432,7 @@ body
 
 .carousel-item strong
 {
-    color: #00ffff;
+    color: #ffffff;
     font-weight: bold;
 }
 
@@ -531,17 +531,17 @@ footer
 
 .omega h6
 {
-    color: #fff;
+    color: #000;
 }
 
 .omega p
 {
-    color: #fff;
+    color: #000;
 }
 
 .omega li
 {
-    color: #fff;
+    color: #000;
 }
 
 /**************** FOOTER STYLING END ****************/
